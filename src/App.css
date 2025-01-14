@@ -1,0 +1,11 @@
+.file-items::-webkit-scrollbar {
+    width: 3px;
+}
+
+.file-items::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+.file-items::-webkit-scrollbar-thumb {
+    background: rgba(100, 116, 139, 0.473);
+}
